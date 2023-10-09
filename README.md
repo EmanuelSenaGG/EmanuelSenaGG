@@ -2,12 +2,19 @@ Eai,  beleza?   Sou Emanuel Sena -->
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas;
 - 🌱 Estudando Desenvolvimento de Software - Back-End, Visão Computacional, Machine Learning,  Mobile e Web
+- 🧠 Estagiando na empresa Computação Brasil, auxilio no desenvolvimento de diferentes tipos de sistemas e utilização de diversas tecnologias.
+- ⚡ Atualmente estou trabalhando em desenvolvimento backend web com Asp NET Core e modelos de Machine Learning aplicados com Visão Computacional para classificação de imagens.
+
+
+
+
 
 <div style="display: inline_block"><br>
   
   
  
-  <img align="center" alt="Emanuel-C#" height="30" width="40" src="https://icons8.com.br/icon/55205/c-afiado-logotipo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Emanuel-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
           
