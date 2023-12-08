@@ -19,7 +19,7 @@ Eai,  beleza?   Sou Emanuel Sena -->
   <img align="center" alt="Emanuel-NetCore" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Emanuel-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Emanuel-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" class="devicon-microsoftsqlserver-plain-wordmark alt="Emanuel-SQLServer"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img align="center" class="devicon-microsoftsqlserver-plain-wordmark" alt="Emanuel-SQLServer"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
   <img align="center" alt="Emanuel-FireBase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 
           
