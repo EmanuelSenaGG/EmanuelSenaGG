@@ -1,4 +1,4 @@
-<div style="background-color: red">
+
 
 
 
@@ -36,4 +36,4 @@ Eai,  beleza?   Sou Emanuel Sena -->
  <a href="https://www.linkedin.com/in/emanuel-sena-089754240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-</div>
+
