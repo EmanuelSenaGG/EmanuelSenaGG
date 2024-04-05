@@ -5,9 +5,8 @@
 Eai,  beleza?   Sou Emanuel Sena -->
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudando Desenvolvimento de Software Back-End, Visão Computacional, Machine Learning,  Mobile e Web
 - 🧠 Estagiando na empresa Computação Brasil, auxilio no desenvolvimento de diferentes tipos de sistemas e utilização de diversas tecnologias.
-- ⚡ Atualmente estou trabalhando em desenvolvimento backend web com Asp NET Core e modelos de Machine Learning aplicados com Visão Computacional para classificação de imagens.
+- ⚡ Atualmente estou trabalhando em desenvolvimento backend com .NET e modelos de Machine Learning aplicados com Visão Computacional para classificação de imagens.
 
 
 
