@@ -6,7 +6,7 @@ Eai,  beleza?   Sou Emanuel Sena -->
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas;
 - 🧠 Desenvolvedor Junior na empresa Computação Brasil, atuo no desenvolvimento de diferentes tipos de sistemas e utilização de diversas tecnologias.
-- ⚡ Atualmente estou trabalhando em desenvolvimento backend com .NET e modelos de Machine Learning aplicados com Visão Computacional para classificação de imagens.
+- ⚡ Atualmente estou trabalhando em desenvolvimento backend com .NET
 
 
 
