@@ -18,6 +18,8 @@ Minhas habilidades abrangem: **Desenvolvimento de Sistemas Web**, **Banco de Dad
 <img align="center" alt="Emanuel-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" alt="Emanuel-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" alt="Emanuel-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="center" alt="Emanuel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Emanuel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Emanuel-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 <img align="center" alt="Emanuel-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
@@ -28,7 +30,7 @@ Minhas habilidades abrangem: **Desenvolvimento de Sistemas Web**, **Banco de Dad
 
 ## 💡 Sobre minha atuação
 
-- 🏢 **Atualmente:** Desenvolvimento **backend** com foco em **.NET**, **C#** e **SQL Server**.
+- 🏢 **Atualmente:** Desenvolvimento **backend** com foco em **.NET**, **C#**, **Java** e **SQL Server**.
 - 🛠️ Experiência em desenvolvimento e manutenção de sistemas, integração de APIs e automação de processos.
 - 🔍 Sempre em busca de evoluir em **arquitetura de software**, **clean code** e **boas práticas de programação**.
 
@@ -36,7 +38,7 @@ Minhas habilidades abrangem: **Desenvolvimento de Sistemas Web**, **Banco de Dad
 
 ## 🌐 Meu portfólio
 
-🔗 [Acesse meu portfólio completo](https://emanuelsenadev.vercel.app/) para conhecer mais sobre meus projetos, experiências e habilidades.
+🔗 <a href="https://emanuelsenadev.vercel.app/" target="_blank">Acesse meu portfólio completo</a> para conhecer mais sobre meus projetos, experiências e habilidades.
 
 ---
 
