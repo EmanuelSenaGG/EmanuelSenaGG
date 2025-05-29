@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Emanuel Sena!
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**  
-💻 **Desenvolvedor Backend Júnior na Computação Brasil**  
+💻 **Desenvolvedor Full Stack na Computação Brasil**  
 🚀 **Apaixonado por desenvolvimento de sistemas, tecnologias backend e boas práticas de engenharia de software.**
 
 Sou **desenvolvedor de software** com mais de **2 anos de experiência** no mercado de TI.  
